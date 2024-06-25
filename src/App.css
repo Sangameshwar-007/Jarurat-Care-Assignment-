@@ -4,6 +4,7 @@
   margin: 20px;
 }
 
+
 .counter h1 {
   font-size: 3em;
 }
@@ -12,10 +13,17 @@
   margin: 5px;
   padding: 10px 20px;
   font-size: 1em;
-}
+  border-radius: 5px;
+  border-color: transparent;
+  }
 
 .undo-redo button {
   margin: 5px;
   padding: 10px 20px;
   font-size: 1em;
+  border-radius: 5px;
+  border-color: transparent;
+
+   
+
 }

@@ -1,4 +1,3 @@
-// src/components/Counter.js
 import React from 'react';
 
 function Counter({ num }) {

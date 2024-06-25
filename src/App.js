@@ -1,4 +1,4 @@
-// src/App.js
+
 import React, { useReducer } from 'react';
 import Counter from './components/Counter';
 import Control from './components/Control';
@@ -60,6 +60,7 @@ function App() {
 
   return (
     <div className="App">
+      <h2 style={{color:"blue"}}>Math Progress Tracker</h2>
       <Counter num={state.num} />
       <ProgresBar num={state.num} />
       <Control dispatch={dispatch} />
