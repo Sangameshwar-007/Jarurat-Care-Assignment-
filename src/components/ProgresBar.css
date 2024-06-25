@@ -1,0 +1,15 @@
+/* src/components/ProgressBar.css */
+.progress-bar {
+    width: 100%;
+    background-color: #e0e0df;
+    border-radius: 50px;
+    margin: 20px 0;
+  }
+  
+  .filler {
+    height: 20px;
+    border-radius: inherit;
+    transition: width 0.3s ease-in-out;
+    background-color: #3b5998;
+  }
+  

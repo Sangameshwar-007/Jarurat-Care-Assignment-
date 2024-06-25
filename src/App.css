@@ -1,0 +1,21 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+.counter h1 {
+  font-size: 3em;
+}
+
+.controls button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 1em;
+}
+
+.undo-redo button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 1em;
+}
